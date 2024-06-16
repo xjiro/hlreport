@@ -1,0 +1,3 @@
+webhook: https://discord.com/api/webhooks/1
+secret_key: a
+remote_key: b
